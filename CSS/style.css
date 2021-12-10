@@ -101,6 +101,7 @@ body.lock {
   min-width: 320px;
   margin: 0 auto;
   padding: 0 20px;
+  max-width: 1740px;
 }
 
 @media (max-width: 1024px) {
